@@ -46,8 +46,8 @@ if __name__ == '__main__':
 
 	else:
 		#Initialize Varibles
-		user = "rmorino"
-		hash = "YWd1bWlvbiQwODIy"
+		user = "USER"
+		hash = "PASSWORD"
 		server = sys.argv[1]
 		
 		login = pexpect.spawn('ssh %s@%s' %(user, server))
