@@ -1,0 +1,14 @@
+
+
+Results: 1 - 8 of 8	   
+    
+			Name	IP Address	Region	Jack	Channel	Comments
+	Protect this object	See all the users with access to this object	lise-b02-ap.fas.harvard.edu	10.240.50.203 	NW 	B169B1 	G Radio 2412(ch 1) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-b0dc-ap.fas.harvard.edu	10.240.50.204 	NW 	B168B1 	G Radio 2437(ch 6) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-b12m-ap.fas.harvard.edu	10.240.50.207 	NW 	B166B1 	G Radio 2437(ch 6) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-b62-ap.fas.harvard.edu	10.240.50.200 	NW 	B167B1 	G Radio 2412(ch 1) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-g00m-ap.fas.harvard.edu	10.240.50.212 	NW 	G204B1 	G Radio 2437(ch 6) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-g01-ap.fas.harvard.edu	10.240.50.211 	NW 	G205B1 	G Radio 2437(ch 6) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-g20-ap.fas.harvard.edu	10.240.50.213 	NW 	G203B1 	G Radio 2462(ch 11) 	View/add comments
+	Protect this object	See all the users with access to this object	lise-g50-ap.fas.harvard.edu	10.240.50.226 	NW 	G202B1 	G Radio 2462(ch 11) 	View/add comments
+

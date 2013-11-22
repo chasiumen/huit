@@ -1,0 +1,43 @@
+Login processing...
+Logged in!
+ 
+show ver | inc Base ethernet
+show ip interface brief | inc Vlan
+show arp
+show ver | inc Model number
+show ver | inc System serial
+exit
+C
+********************* W A R N I N G *********************
+This system is for authorized users at Harvard University.
+No other use is permitted.
+***** Harvard University Network Operations Center *******
+********************* (617) 496-4736 *********************
+lowell-b-sw1 line 1 
+
+lowell-b-sw1>show ver | inc Base ethernet
+Base ethernet MAC Address       : 7C:69:F6:48:81:80
+Base ethernet MAC Address       : 7C:69:F6:4E:9E:80
+Base ethernet MAC Address       : 4C:00:82:F0:27:00
+Base ethernet MAC Address       : 7C:69:F6:0C:95:80
+lowell-b-sw1>show ip interface brief | inc Vlan
+Vlan1                  unassigned      YES NVRAM  administratively down down    
+Vlan15                 10.240.33.223   YES NVRAM  up                    up      
+lowell-b-sw1>show arp
+Protocol  Address          Age (min)  Hardware Addr   Type   Interface
+Internet  10.240.32.1           241   0008.e3ff.fc44  ARPA   Vlan15
+Internet  10.240.33.222          80   f0f7.55c4.ed7f  ARPA   Vlan15
+Internet  10.240.33.223           -   7c69.f648.81c1  ARPA   Vlan15
+lowell-b-sw1>show ver | inc Model number
+Model number                    : WS-C3750X-48PF-L
+Model number                    : WS-C3750X-48PF-L
+Model number                    : WS-C3750X-48PF-L
+Model number                    : WS-C3750X-48PF-L
+lowell-b-sw1>show ver | inc System serial
+System serial number            : FDO1725R2AY
+System serial number            : FDO1725R22S
+System serial number            : FDO1724R241
+System serial number            : FDO1724Z29L
+lowell-b-sw1>exit
+Connection to lowell-b-sw1 closed by remote host.
+Connection to lowell-b-sw1 closed.

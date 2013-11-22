@@ -1,0 +1,29 @@
+Login processing...
+Logged in!
+ 
+show ver | inc Base ethernet
+show ip interface brief | inc Vlan
+show arp
+show ver | inc Model number
+show ver | inc System serial
+exit
+C
+********************* W A R N I N G *********************
+This system is for authorized users at Harvard University.
+No other use is permitted.
+***** Harvard University Network Operations Center *******
+********************* (617) 496-4736 *********************
+fdf-widener-d-sw1 line 1 
+
+fdf-widener-d-sw1>show ver | inc Base ethernet
+fdf-widener-d-sw1>show ip interface brief | inc Vlan
+Vlan1                  unassigned      YES unset  administratively down down    
+Vlan14                 10.240.31.97    YES NVRAM  up                    up      
+fdf-widener-d-sw1>show arp
+Protocol  Address          Age (min)  Hardware Addr   Type   Interface
+Internet  10.240.28.1            82   0008.e3ff.fcb8  ARPA   Vlan14
+Internet  10.240.31.97            -   0008.e3ff.fc04  ARPA   Vlan14
+fdf-widener-d-sw1>show ver | inc Model number
+fdf-widener-d-sw1>show ver | inc System serial
+fdf-widener-d-sw1>exit
+Connection to fdf-widener-d-sw1 closed.

@@ -1,0 +1,41 @@
+Login processing...
+Logged in!
+        
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+
+License Information for 'WS-C4500X-32'
+    License Level: ipbase   Type: Permanent
+    Next reboot license Level: ipbase
+
+cisco WS-C4500X-32 (MPC8572) processor (revision 4) with 4194304K/20480K bytes of memory.
+Processor board ID JAE17350B01
+MPC8572 CPU at 1.5GHz, Cisco Catalyst 4500X
+Last reset from PowerUp
+2 Virtual Ethernet interfaces
+32 Ten Gigabit Ethernet interfaces
+511K bytes of non-volatile configuration memory.
+
+Configuration register is 0x2101
+
+fdf-longfellow-b-sw1>
+fdf-longfellow-b-sw1>show mod
+Chassis Type : WS-C4500X-32
+
+Power consumed by backplane : 0 Watts
+
+Mod Ports Card Type                              Model              Serial No.
+---+-----+--------------------------------------+------------------+-----------
+ 1    32  4500X-32 10GE (SFP+)                   WS-C4500X-32       JAE17350B01 
+
+ M MAC addresses                    Hw  Fw           Sw               Status
+--+--------------------------------+---+------------+----------------+---------
+ 1 c08c.60e1.23b8 to c08c.60e1.23d7 1.1 15.0(1r)SG6  03.03.02.SG      Ok       
+
+fdf-longfellow-b-sw1> 
+fdf-longfellow-b-sw1>exit
+Connection to fdf-longfellow-b-sw1 closed.
