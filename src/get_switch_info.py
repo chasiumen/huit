@@ -34,8 +34,8 @@ if __name__ == '__main__':
 		sys.exit()
 	else:
 	#Initialize Varibles
-		user = "rmorino"
-		hash = "YWd1bWlvbiQwODIy"
+		user = "USER"
+		hash = "PASSWORD"
 		server = sys.argv[1]
 		outfile ="/Users/leox/huit/out.txt"
 
